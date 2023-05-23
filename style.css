@@ -104,7 +104,7 @@
 
 /* Footer */
 .footer{
-    background: red;
+    /* background: red; */
     display: flex;
     flex-direction: row;
     justify-content: space-around;
